@@ -1,0 +1,28 @@
+RWTH Aachen University
+Construction and Robotics
+Master‘s Thesis
+Gökce Yesiloglu
+Supervisor Dr. -Ing Thomas AdamsEvaluating the Influence of Admixtures on 
+Concrete Maturity and Strength Development: 
+Pathways to Low -CO₂ Concrete Solutions
+•How chemical admixtures (accelerators, retarders, 
+superplasticizers) influence the accuracy of maturity -based 
+strength estimation?•The aim of this theme is to systematically investigate how different chemical admixtures influence the 
+relationship between concrete maturity and strength. The goal is to determine whether standard 
+maturity curves need to be adjusted for concretes containing admixtures to ensure accurate strength 
+estimation.
+The advantage is that we can compare the concrete mixes with different accelerators that we are 
+currently examining at the plant, such as the 1003 and 1004 recipes, which differ by 300 kg and 350 kg 
+of cement, respectively. This way, we can use the results of this thesis to improve Net Zero concrete.•I can use the sensor’s software tool such as ComSoft , that automatically collects temperature data 
+from temparature  sensor and implement the algorithm to calculate maturity indices and generate 
+maturity -strength curves for different mixes and admixtures from lab tests.
+•I integrate real -time data visualization dashboards for monitoring concrete curing.
+•I create an automated reporting system that generates PDF or web -based reports summarizing test 
+results, maturity curves, and recommendations.
+•All data is stored securely and can be accessed remotely by project stakeholders.Life -Cycle Assessment Integration into Digital 
+Concrete production workflows
+•Research Questions
+How can LCA be embedded into digital concrete production processes?
+•What data from digital workflows (e.g., sensors, batching systems, mix designs) are needed for real -
+time LCA?
+•How can automated feedback loops be created to optimize concrete production for sustainability?Start and end time ofthe maturity sensor
